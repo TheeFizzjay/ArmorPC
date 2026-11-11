@@ -133,15 +133,9 @@ armor testhit scary chest slash 10
 - Source/data tests are not a substitute for compiling against matching game references or testing on PC and Quest.
 - Additional material-stat customization and runtime compatibility may require further balancing/testing.
 
-Include the server/client versions, reproduction steps, and relevant logs in bug reports. For unexplained Quest process exits, Android logcat can distinguish native faults from low-memory termination. **Redact authentication tokens before posting logs.**
-
-See [CRAFTING.md](../CRAFTING.md) for detailed implementation notes and limitations.
+Include the server/client versions, reproduction steps, and relevant logs in bug reports. For unexplained Quest process exits, Android logcat can distinguish native faults from low-memory termination.
 
 ## Credits
 
 - **@ven_man** — Original PC armor mod and content.
-- **@doctornighterror** — Foundation used for the port.
-- **@crazycircl** — Permission to port Dark Steel.
-- **Shadow / fizzjay** — Quest port and integration.
 
-[Project on GitHub](https://github.com/fizzjay/ArmorUpdate)
